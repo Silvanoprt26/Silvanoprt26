@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Silvanoprt26
-- 👀 I’m interested in Network
-- 🌱 I’m currently learning DevNet Associate
+- 👀 I’m interested in Network, Data Analyst and Data visualization
+- 🌱 I’m currently learning Data Analyst at DQLab 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me silvanopratama3@gmail.com
 
